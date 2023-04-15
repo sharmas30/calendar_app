@@ -353,6 +353,8 @@
   .add-event {
     position: absolute;
     font-weight: 700;
+    font-size: 13px !important;
+    letter-spacing: 1px;
     bottom: 30px;
     right: 30px;
     width: 120px;
